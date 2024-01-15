@@ -1,6 +1,8 @@
 ### Hi there 👋
 It's Amelia :D
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amelia1110&layout=donut)](https://github.com/Amelia1110/github-readme-stats)
+
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Amelia1110&hide_rank=true)](https://github.com/Amelia1110/github-readme-stats)
 
 <!--

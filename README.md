@@ -1,12 +1,10 @@
 ### Hi there 👋
 
 Its Amelia!
-- 🎓 I'm a Grade 12 student
-- 😊 Going into UWaterloo Software Engineering next year
+- 🎓 I'm a UWaterloo Software Engineering student
 
 Projects I'm working on now:
 - 🛍️ Web app (details to be released later 🤫)
-- 🪐 Astral Hacks (Co-Founder and Organizer - Set for summer 2024)
 - 🎮 Unity game (details to be released later 🫢)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amelia1110&layout=donut&theme=radical)](https://github.com/Amelia1110/github-readme-stats) [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Amelia1110&hide_rank=true&theme=radical)](https://github.com/Amelia1110/github-readme-stats)

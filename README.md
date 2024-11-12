@@ -1,4 +1,4 @@
-i### Hi there 👋
+### Hi there 👋
 
 Its Amelia!
 - 🎓 I'm a UWaterloo Software Engineering student
@@ -8,14 +8,6 @@ Projects I'm working on now:
 - 🎮 Unity game (details to be released later 🫢)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amelia1110&layout=donut&theme=radical)](https://github.com/Amelia1110/github-readme-stats) [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Amelia1110&hide_rank=true&theme=radical)](https://github.com/Amelia1110/github-readme-stats)
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amelia1110/Amelia1110/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amelia1110/Amelia1110/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Amelia1110/Amelia1110/output/github-contribution-grid-snake.svg">
-</picture>
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Amelia1110&icon=0&color=6)](https://visitcount.itsvg.in)

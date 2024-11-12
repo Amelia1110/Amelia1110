@@ -1,4 +1,4 @@
-### Hi there 👋
+i### Hi there 👋
 
 Its Amelia!
 - 🎓 I'm a UWaterloo Software Engineering student
@@ -18,7 +18,7 @@ Projects I'm working on now:
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DregoonXD&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Amelia1110&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!--
 **Amelia1110/Amelia1110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

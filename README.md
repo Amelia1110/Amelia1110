@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Its Amelia!
-- 🎓 I'm a UWaterloo Software Engineering student
+- 🎓 I'm a Software Engineering student at the University of Waterloo
 
 Projects I'm working on now:
 - 🛍️ Web app (details to be released later 🤫)

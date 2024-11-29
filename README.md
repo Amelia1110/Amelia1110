@@ -3,9 +3,11 @@
 Its Amelia!
 - 🎓 I'm a Software Engineering student at the University of Waterloo
 
+<!--
 Projects I'm working on now:
 - 🛍️ Web app (details to be released later 🤫)
 - 🎮 Unity game (details to be released later 🫢)
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amelia1110&layout=donut&theme=radical)](https://github.com/Amelia1110/github-readme-stats) [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Amelia1110&hide_rank=true&theme=radical)](https://github.com/Amelia1110/github-readme-stats)
 
